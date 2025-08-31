@@ -41,4 +41,4 @@ Finally, please fill out the google form that you received via email to submit t
 ---
 
 ## 🚀 Live Dashboard  
-[Click here to view the live dashboard]()
+[Click here to view the live dashboard](https://lm43c6-3000.csb.app/)
